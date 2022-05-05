@@ -1,0 +1,12 @@
+{
+  "name": "mogen-plugin-storybook",
+  "version": "1.0.0",
+  "description": "A plugin for react-mogen which auto generates a storybook file with the current component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node index.js"
+  },
+  "author": "Lucas Reppe Welander",
+  "license": "ISC"
+}
